@@ -1,6 +1,6 @@
 <!-- Gradient Header with Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&background=7F53AC-2EC4B6&center=true&width=450&lines=Hi+there%2C+I'm+Keith!+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CS+Student;Bringing+Ideas+to+Life+with+Code+and+AI!" alt="Typing SVG Header">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&background=7F53AC-2EC4B6&center=true&width=500&lines=Hi+there%2C+I'm+Keith!+%F0%9F%91%8B;Aspiring+Software+Engineer+%7C+CS+Student;Bringing+Ideas+to+Life+with+Code+and+AI!" alt="Typing SVG Header">
 </p>
 
 <!-- Cool Gradient Divider -->
